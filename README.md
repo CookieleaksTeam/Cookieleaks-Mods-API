@@ -25,7 +25,7 @@ Table of Contents
   <repository>
     <id>CookieLeaks-Mods-API</id>
     <name>CookieLeaks Client Mod API</name>
-    <url>https://repo.craftsblock.de/releases</url>
+    <url>https://geradenichtmöglich.de</url>
   </repository>
 </repositories>
 
