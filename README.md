@@ -36,7 +36,6 @@
     <name>jcenter-bintray</name>
   </repository>
 </repositories>
-```
 ```xml
 <dependencies>
   ...
