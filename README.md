@@ -18,7 +18,7 @@ Table of Contents
 ### Instructions
 
 * * *
-
+###Maven/Repo
 ```
 <repositories>
   ...
@@ -30,6 +30,20 @@ Table of Contents
 </repositories>
 
 ```
+
+
+#Maven/dependency
+```
+<dependencies>
+  <dependency>
+    <groupId>de.cookieleaks</groupId>
+    <artifactId>ModsAPI</artifactId>
+    <version>X.X.X</version>
+  </dependency>
+</dependencies>
+```
+
+
 
 ### Usage Information
 
