@@ -19,7 +19,17 @@ Table of Contents
 
 * * *
 
-\`\`\` ... craftsblock-releases CraftsBlock Repositories https://repo.craftsblock.de/releases jcenter https://jcenter.bintray.com jcenter-bintray \`\`\` \`\`\` ... de.craftsblock.craftscore CraftsCore X.X.X-SNAPSHOT \`\`\`
+```
+<repositories>
+  ...
+  <repository>
+    <id>CookieLeaks-Mods-API</id>
+    <name>CookieLeaks Client Mod API</name>
+    <url>https://repo.craftsblock.de/releases</url>
+  </repository>
+</repositories>
+
+```
 
 ### Usage Information
 
