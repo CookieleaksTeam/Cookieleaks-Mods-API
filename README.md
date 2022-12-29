@@ -22,7 +22,31 @@
   
   <h3 id="instructions">Instructions</h3>
   <hr>
-  <p>Füge das für Gradle ```Hallo Welt```  <br> und das für Maven ...</p>
+  ```xml
+<repositories>
+  ...
+  <repository>
+    <id>craftsblock-releases</id>
+    <name>CraftsBlock Repositories</name>
+    <url>https://repo.craftsblock.de/releases</url>
+  </repository>
+  <repository> 
+    <id>jcenter</id>
+    <url>https://jcenter.bintray.com</url>
+    <name>jcenter-bintray</name>
+  </repository>
+</repositories>
+```
+```xml
+<dependencies>
+  ...
+  <dependency>
+    <groupId>de.craftsblock.craftscore</groupId>
+    <artifactId>CraftsCore</artifactId>
+    <version>X.X.X-SNAPSHOT</version>
+  </dependency>
+</dependencies>
+```
   
   <h3 id="usage">Usage Information</h3>
   <hr>
