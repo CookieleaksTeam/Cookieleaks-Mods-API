@@ -40,7 +40,7 @@ Table of Contents
 
 * * *
 
-``` ... craftsblock-releases CraftsBlock Repositories https://repo.craftsblock.de/releases jcenter https://jcenter.bintray.com jcenter-bintray \`\`\` \`\`\` ... de.craftsblock.craftscore CraftsCore X.X.X-SNAPSHOT ```
+``` ... craftsblock-releases CraftsBlock Repositories https://repo.craftsblock.de/releases jcenter https://jcenter.bintray.com jcenter-bintray ``` ``` ... de.craftsblock.craftscore CraftsCore X.X.X-SNAPSHOT ```
 
 ### Usage Information
 
