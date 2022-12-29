@@ -18,7 +18,7 @@ Table of Contents
 ### Instructions
 
 * * *
-###Maven/Repo
+### Maven/Repo
 ```
 <repositories>
   ...
@@ -32,7 +32,7 @@ Table of Contents
 ```
 
 
-#Maven/dependency
+### Maven/dependency
 ```
 <dependencies>
   <dependency>
