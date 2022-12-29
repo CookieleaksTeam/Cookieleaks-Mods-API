@@ -26,7 +26,7 @@
   
   <h3 id="usage">Usage Information</h3>
   <hr>
-  <p>Hier wurde Benutzt Java</p>
+  <p>[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</p>
   
   <h3 id="contributing">Contribution Guidelines</h3>
   <hr>
