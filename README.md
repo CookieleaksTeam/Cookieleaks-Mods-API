@@ -22,7 +22,7 @@
   
   <h3 id="instructions">Instructions</h3>
   <hr>
-  <p>Füge das für Gradle ´´´Hallo Welt´´´  <br> und das für Maven ...</p>
+  <p>Füge das für Gradle ```Hallo Welt```  <br> und das für Maven ...</p>
   
   <h3 id="usage">Usage Information</h3>
   <hr>
