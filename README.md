@@ -21,7 +21,6 @@ Table of Contents
 ### Maven/Repo
 ```
 <repositories>
-  ...
   <repository>
     <id>CookieLeaks-Mods-API</id>
     <name>CookieLeaks Client Mod API</name>
