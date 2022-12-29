@@ -22,7 +22,7 @@
   
   <h3 id="instructions">Instructions</h3>
   <hr>
-  ```xml
+  ```
 <repositories>
   ...
   <repository>
@@ -36,7 +36,8 @@
     <name>jcenter-bintray</name>
   </repository>
 </repositories>
-```xml
+```
+```
 <dependencies>
   ...
   <dependency>
