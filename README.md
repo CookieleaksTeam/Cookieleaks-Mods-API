@@ -1,10 +1,10 @@
-
+  <img src="https://cdn.discordapp.com/icons/1057956165633454110/5fc9c0c7d998f871139559a49beea1a4.webp?size=128" alt="logo"></img>
   <h2 align="center">TITLE OF THE PROJECT: CookieLeaks Mods API</h2>
   <img src="https://img.shields.io/badge/License-Apache-blue.svg">
   <p align="center">Das ist eine API wo man sich mods im CookieLeaks Client was machen kann</p>
   
   <details>
-    <summary>Table of Contents</summary>
+ alt="logo"    <summary>Table of Contents</summary>
     <ol>
       <li>
         <a href="#instructions">Installation Instructions</a>
